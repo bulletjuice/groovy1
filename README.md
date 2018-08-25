@@ -12,3 +12,6 @@ function power(base, exponent) {
 
 console.log(power(2, 3));
 // → 8
+
+==========
+new line
